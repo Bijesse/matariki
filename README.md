@@ -7,8 +7,13 @@ In this project students will learn about the origins of Matariki and will then 
 ##Estimated Completion Time
 This unit can take a varying amount of time depending on the age of the students. It can be easily adapted for Scratch or Scratch Jr.
 
+##Prerequisites
+Students have already experimented with Scratch. They are ready to learn cartesian coordinates and loops.
+
+
 ##Teacher Notes & Pro Tips
 
+* This project can also be done in Scratch Jr for younger students.
 * In Scratch, the cartesian coordinates range from x(-240 to 240) & y(-180 to 180)
 * It is recommended to create all the code for one star and then copying the sprite to other stars. 
 
@@ -18,11 +23,11 @@ This unit can take a varying amount of time depending on the age of the students
 * [Printed Packet (Unplugged Activity)](Matariki.pdf) <--Print copies before class
 * [Matariki History](https://my.christchurchcitylibraries.com/blogs/post/matariki-maori-new-year-2016/)
 
-| Solution Code (Scratch jr) | Solution Code (Scratch) |
-|-------|-------|
-| [StarterCode]()| [Example Solution]()|
+| Solution Code (Scratch) |
+|-------|
+| [Example Solution](https://scratch.mit.edu/projects/112695714/)|
 
-##[Google Slides]()
+##[Google Slides](https://docs.google.com/presentation/d/1RbovkRf5gYFKVBYlkLfY6V364XMa4evH6MrBMzP57Ec/edit?usp=sharing)
 
 ##Project Extensions
 Students who complete this task early are encouraged to:
