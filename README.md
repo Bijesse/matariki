@@ -35,7 +35,7 @@ Students who complete this task early are encouraged to:
 * Add music to their project. Record themselves singing and have the music begin when a star is clicked.
 
 ##New Zealand Curriculum Alignment
-####Mathematics and Statistics
+###Mathematics and Statistics
 **Geometry and Measurement:**  
 
 **Level 3**  
@@ -49,13 +49,13 @@ Students who complete this task early are encouraged to:
 	* Communicate and interpret locations and directions, using compass
 directions, distances, and grid references
 
-####Social Sciences
+###Social Sciences
 **Social Studies**  
 **Level 1**
 
 * Understand how the cultures of people in New Zealand are expressed in their daily lives.
 
-####Technology
+###Technology
 **Technological Practice:**  
 **Level 2**
 
