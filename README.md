@@ -34,5 +34,37 @@ Students who complete this task early are encouraged to:
 
 * Add music to their project. Record themselves singing and have the music begin when a star is clicked.
 
+##New Zealand Curriculum Alignment
+####Mathematics and Statistics
+**Geometry and Measurement:**  
+
+**Level 3**  
+
+* **Position and Orientation**   
+	* Use a co-ordinate system or the language of direction and distance to specify locations and describe paths.
+
+**Level 4**
+
+* **Position and Orientation** 
+	* Communicate and interpret locations and directions, using compass
+directions, distances, and grid references
+
+####Social Sciences
+**Social Studies**  
+**Level 1**
+
+* Understand how the cultures of people in New Zealand are expressed in their daily lives.
+
+####Technology
+**Technological Practice:**  
+**Level 2**
+
+* **Planning for Practice** 
+	* Develop a plan that identifies the key stages and the resources required to complete an outcome.
 
 
+**Level 4** 
+ 
+* **Planning for Practice**
+	* Communicate and interpret locations and directions, using compass
+directions, distances, and grid references
