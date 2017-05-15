@@ -27,7 +27,7 @@ Students have already experimented with Scratch. They are ready to learn cartesi
 |-------|
 | [Example Solution](https://scratch.mit.edu/projects/112695714/)|
 
-## [Google Slides](https://docs.google.com/presentation/d/1RbovkRf5gYFKVBYlkLfY6V364XMa4evH6MrBMzP57Ec/edit?usp=sharing)
+## [Google Slides](https://docs.google.com/presentation/d/1RbovkRf5gYFKVBYlkLfY6V364XMa4evH6MrBMzP57Ec/edit?usp=sharing)This slide show contains directions for creating the project
 
 ## Project Extensions
 Students who complete this task early are encouraged to:
